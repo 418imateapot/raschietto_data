@@ -1,2 +1,2 @@
 # raschietto_data
-Nothing of interest
+Copia del triple store di raschietto
