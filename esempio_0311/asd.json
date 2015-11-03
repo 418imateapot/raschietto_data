@@ -1,0 +1,127 @@
+{
+    u 'head': {
+        u 'vars': [u 'x', u 'y', u 'z', u 'aaa', u 'author']
+    }, u 'results': {
+        u 'bindings': [{
+            u 'y': {
+                u 'type': u 'bnode', u 'value': u 'b1'
+            }, u 'x': {
+                u 'type': u 'bnode', u 'value': u 'b0'
+            }, u 'z': {
+                u 'type': u 'bnode', u 'value': u 'b2'
+            }, u 'aaa': {
+                u 'type': u 'uri', u 'value': u 'http://vitali.web.cs.unibo.it/raschietto/person/c-almeida'
+            }, u 'author': {
+                u 'datatype': u 'http://www.w3.org/2001/XMLSchema#string', u 'type': u 'typed-literal', u 'value': u 'Carlos Almeida'
+            }
+        }, {
+            u 'y': {
+                u 'type': u 'bnode', u 'value': u 'b4'
+            }, u 'x': {
+                u 'type': u 'bnode', u 'value': u 'b3'
+            }, u 'z': {
+                u 'type': u 'bnode', u 'value': u 'b5'
+            }, u 'aaa': {
+                u 'type': u 'uri', u 'value': u 'http://vitali.web.cs.unibo.it/raschietto/person/m-mouchart'
+            }, u 'author': {
+                u 'datatype': u 'http://www.w3.org/2001/XMLSchema#string', u 'type': u 'typed-literal', u 'value': u 'Michel Mouchart'
+            }
+        }, {
+            u 'y': {
+                u 'type': u 'bnode', u 'value': u 'b7'
+            }, u 'x': {
+                u 'type': u 'bnode', u 'value': u 'b6'
+            }, u 'z': {
+                u 'type': u 'bnode', u 'value': u 'b8'
+            }, u 'aaa': {
+                u 'type': u 'uri', u 'value': u 'http://vitali.web.cs.unibo.it/raschietto/person/a-agresti'
+            }, u 'author': {
+                u 'datatype': u 'http://www.w3.org/2001/XMLSchema#string', u 'type': u 'typed-literal', u 'value': u 'A. Agresti'
+            }
+        }, {
+            u 'y': {
+                u 'type': u 'bnode', u 'value': u 'b10'
+            }, u 'x': {
+                u 'type': u 'bnode', u 'value': u 'b9'
+            }, u 'z': {
+                u 'type': u 'bnode', u 'value': u 'b11'
+            }, u 'aaa': {
+                u 'type': u 'uri', u 'value': u 'http://vitali.web.cs.unibo.it/raschietto/person/c-almeida'
+            }, u 'author': {
+                u 'datatype': u 'http://www.w3.org/2001/XMLSchema#string', u 'type': u 'typed-literal', u 'value': u 'C. Almeida'
+            }
+        }, {
+            u 'y': {
+                u 'type': u 'bnode', u 'value': u 'b13'
+            }, u 'x': {
+                u 'type': u 'bnode', u 'value': u 'b12'
+            }, u 'z': {
+                u 'type': u 'bnode', u 'value': u 'b14'
+            }, u 'aaa': {
+                u 'type': u 'uri', u 'value': u 'http://vitali.web.cs.unibo.it/raschietto/person/c-almeida'
+            }, u 'author': {
+                u 'datatype': u 'http://www.w3.org/2001/XMLSchema#string', u 'type': u 'typed-literal', u 'value': u 'C. Almeida'
+            }
+        }, {
+            u 'y': {
+                u 'type': u 'bnode', u 'value': u 'b16'
+            }, u 'x': {
+                u 'type': u 'bnode', u 'value': u 'b15'
+            }, u 'z': {
+                u 'type': u 'bnode', u 'value': u 'b17'
+            }, u 'aaa': {
+                u 'type': u 'uri', u 'value': u 'http://vitali.web.cs.unibo.it/raschietto/person/m-mouchart'
+            }, u 'author': {
+                u 'datatype': u 'http://www.w3.org/2001/XMLSchema#string', u 'type': u 'typed-literal', u 'value': u 'M. Mouchart'
+            }
+        }, {
+            u 'y': {
+                u 'type': u 'bnode', u 'value': u 'b19'
+            }, u 'x': {
+                u 'type': u 'bnode', u 'value': u 'b18'
+            }, u 'z': {
+                u 'type': u 'bnode', u 'value': u 'b20'
+            }, u 'aaa': {
+                u 'type': u 'uri', u 'value': u 'http://vitali.web.cs.unibo.it/raschietto/person/c-almeida'
+            }, u 'author': {
+                u 'datatype': u 'http://www.w3.org/2001/XMLSchema#string', u 'type': u 'typed-literal', u 'value': u 'C. Almeida'
+            }
+        }, {
+            u 'y': {
+                u 'type': u 'bnode', u 'value': u 'b22'
+            }, u 'x': {
+                u 'type': u 'bnode', u 'value': u 'b21'
+            }, u 'z': {
+                u 'type': u 'bnode', u 'value': u 'b23'
+            }, u 'aaa': {
+                u 'type': u 'uri', u 'value': u 'http://vitali.web.cs.unibo.it/raschietto/person/m-mouchart'
+            }, u 'author': {
+                u 'datatype': u 'http://www.w3.org/2001/XMLSchema#string', u 'type': u 'typed-literal', u 'value': u 'M. Mouchart'
+            }
+        }, {
+            u 'y': {
+                u 'type': u 'bnode', u 'value': u 'b25'
+            }, u 'x': {
+                u 'type': u 'bnode', u 'value': u 'b24'
+            }, u 'z': {
+                u 'type': u 'bnode', u 'value': u 'b26'
+            }, u 'aaa': {
+                u 'type': u 'uri', u 'value': u 'http://vitali.web.cs.unibo.it/raschietto/person/c-almeida'
+            }, u 'author': {
+                u 'datatype': u 'http://www.w3.org/2001/XMLSchema#string', u 'type': u 'typed-literal', u 'value': u 'C. Almeida'
+            }
+        }, {
+            u 'y': {
+                u 'type': u 'bnode', u 'value': u 'b28'
+            }, u 'x': {
+                u 'type': u 'bnode', u 'value': u 'b27'
+            }, u 'z': {
+                u 'type': u 'bnode', u 'value': u 'b29'
+            }, u 'aaa': {
+                u 'type': u 'uri', u 'value': u 'http://vitali.web.cs.unibo.it/raschietto/person/m-mouchart'
+            }, u 'author': {
+                u 'datatype': u 'http://www.w3.org/2001/XMLSchema#string', u 'type': u 'typed-literal', u 'value': u 'M. Mouchart'
+            }
+        }]
+    }
+}
