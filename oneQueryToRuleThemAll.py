@@ -14,7 +14,7 @@ query = """
     PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
     #www.dlib.org/dlib/november14/beel/11beel_ver1
 
-    SELECT ?id ?author ?title
+    SELECT ?id ?author ?title ?year
     WHERE {
       ?x raschietto:type "hasAuthor";
         oa:hasBody ?y.
@@ -25,7 +25,9 @@ query = """
       ?x1 raschietto:type "hasTitle";
         oa:hasBody ?y1.
       ?y1 rdf:object ?title.
-
+      ?x2 raschietto:type "hasPublicationYear";
+  		oa:hasBody ?y2.
+  	  ?y2 rdf:object ?year.
     }
     LIMIT 100
 """
