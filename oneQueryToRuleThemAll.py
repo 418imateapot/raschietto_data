@@ -15,7 +15,7 @@ query = """
     #www.dlib.org/dlib/november14/beel/11beel_ver1
 
     SELECT ?id ?author ?title ?year ?comment ?url
-   ?comment ?url
+   
     WHERE {
       ?x raschietto:type "hasAuthor";
         oa:hasBody ?y.
